@@ -1,2 +1,2 @@
 # django
-practice django by python
+practice python by django
